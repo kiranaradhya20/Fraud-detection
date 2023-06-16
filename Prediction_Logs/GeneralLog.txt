@@ -1,0 +1,27 @@
+2020-02-15/16:59:42		GoodRaw directory deleted successfully!!!
+2020-02-15/16:59:45		Bad files moved to archive
+2020-02-15/16:59:45		Bad Raw Data Folder Deleted successfully!!
+2020-02-15/17:10:38		GoodRaw directory deleted successfully!!!
+2020-02-15/17:10:38		Bad files moved to archive
+2020-02-15/17:10:38		Bad Raw Data Folder Deleted successfully!!
+2020-02-15/17:35:36		GoodRaw directory deleted successfully!!!
+2020-02-15/17:35:36		Bad files moved to archive
+2020-02-15/17:35:36		Bad Raw Data Folder Deleted successfully!!
+2023-06-13/15:44:40		GoodRaw directory deleted successfully!!!
+2023-06-13/15:44:40		Bad files moved to archive
+2023-06-13/15:44:40		Bad Raw Data Folder Deleted successfully!!
+2023-06-13/15:45:51		GoodRaw directory deleted successfully!!!
+2023-06-13/15:45:51		Bad files moved to archive
+2023-06-13/15:45:51		Bad Raw Data Folder Deleted successfully!!
+2023-06-13/15:46:38		GoodRaw directory deleted successfully!!!
+2023-06-13/15:46:38		Bad files moved to archive
+2023-06-13/15:46:38		Bad Raw Data Folder Deleted successfully!!
+2023-06-13/15:46:58		GoodRaw directory deleted successfully!!!
+2023-06-13/15:46:58		Bad files moved to archive
+2023-06-13/15:46:58		Bad Raw Data Folder Deleted successfully!!
+2023-06-13/15:58:07		GoodRaw directory deleted successfully!!!
+2023-06-13/15:58:07		Bad files moved to archive
+2023-06-13/15:58:07		Bad Raw Data Folder Deleted successfully!!
+2023-06-15/03:34:10		GoodRaw directory deleted successfully!!!
+2023-06-15/03:34:10		Bad files moved to archive
+2023-06-15/03:34:10		Bad Raw Data Folder Deleted successfully!!
